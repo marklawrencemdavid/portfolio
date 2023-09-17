@@ -209,6 +209,14 @@
     <script src="../assets/js/owl.carousel.min.js"></script>
     <script src="../assets/js/jquery.magnific-popup.min.js"></script>
     <script src="../assets/js/main.js"></script>
-
+    <script>
+        // MAGNIFIC POPUP FOR PORTFOLIO PAGE
+        $('.portfolio-lightbox').magnificPopup({
+            delegate: '.magnif',
+            type:'image',
+            gallery:{enabled:true},
+            zoom:{enabled: true, duration: 300}
+        });
+    </script>
 </body>
 </html>
