@@ -130,7 +130,7 @@ $(document).ready( function() {
                 loadMore: {
                     element: '#port-loadMore',
                     action: 'click',
-                    loadItems: 3,
+                    loadItems: 0,
                 }
             }
     }); 
