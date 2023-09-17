@@ -1148,24 +1148,24 @@ footer .getintouch strong{
 }
 
 
-.about .clients .client {
+.about .tools .client {
     height: 200px;
     display: table;
     opacity: .5;
 }
 
-.about .clients .client:hover{
+.about .tools .client:hover{
     transition: all ease 0.3s;
     opacity: 1;
 }
 
-.about .clients .client figure{
+.about .tools .client figure{
     vertical-align: middle;
     display: table-cell;
     text-align: center;
 }
 
-.about .clients .client figure img{
+.about .tools .client figure img{
     max-width: 50%;
 }
 
@@ -1582,7 +1582,7 @@ textarea.form-message{
         font-size: 70px;
     }
 
-    .about .clients .client figure img {
+    .about .tools .client figure img {
         max-width: 70%;
     }
 
@@ -1735,7 +1735,7 @@ textarea.form-message{
         font-size: 55px;
     }
 
-    .about .clients .client figure img {
+    .about .tools .client figure img {
         max-width: 70%;
     }
 
@@ -1850,7 +1850,7 @@ textarea.form-message{
         font-size: 55px;
     }
 
-    .about .clients .client figure img {
+    .about .tools .client figure img {
         max-width: 70%;
     }
 
